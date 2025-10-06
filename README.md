@@ -12,11 +12,11 @@ Aplikasi ini adalah program desktop sederhana yang dibuat menggunakan Java Swing
 ├── ProductData/                # Folder utama proyek (source code)
 │   ├── Product.java
 │   └── ProductMenu.java
-├── Dokumentasi/                # Folder berisi screenshot/gif untuk README
+├── Dokumentasi/                # Folder berisi screenshot untuk README
 │   ├── 01-tampilan-awal.png
-│   ├── 02-tambah-data.gif
-│   ├── 03-ubah-data.gif
-│   └── 04-hapus-data.gif
+│   ├── 02-tambah-data.png
+│   ├── 03-ubah-data.png
+│   └── 04-hapus-data.png
 └── README.md                   # File ini
 ```
 
