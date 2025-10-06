@@ -13,10 +13,10 @@ Aplikasi ini adalah program desktop sederhana yang dibuat menggunakan Java Swing
 │   ├── Product.java
 │   └── ProductMenu.java
 ├── Dokumentasi/                # Folder berisi screenshot untuk README
-│   ├── 01-tampilan-awal.png
-│   ├── 02-tambah-data.png
-│   ├── 03-ubah-data.png
-│   └── 04-hapus-data.png
+│   
+│   
+│   
+│   
 └── README.md                   # File ini
 ```
 
@@ -73,19 +73,31 @@ Berikut adalah dokumentasi penggunaan program yang menunjukkan semua operasi CRU
 ### 1. Tampilan Awal (Read)
 Tampilan saat program pertama kali dibuka. Semua data awal berhasil dimuat dan ditampilkan pada tabel.
 
-![Tampilan Awal](Dokumentasi/01-tampilan-awal.png)
+<img width="930" height="692" alt="Screenshot 2025-10-06 080638" src="https://github.com/user-attachments/assets/6d54fdba-aead-44ca-a429-4e8b41dfeaf2" />
+
 
 ### 2. Proses Menambahkan Data (Create)
 Demonstrasi proses pengisian form dan penambahan data baru ke dalam tabel.
 
-![Proses Tambah Data](Dokumentasi/02-tambah-data.gif)
+<img width="879" height="756" alt="Screenshot 2025-10-06 080646" src="https://github.com/user-attachments/assets/242642f5-d59a-4eb2-bdc3-78e942c838d3" />
+
+
+<img width="879" height="756" alt="Screenshot 2025-10-06 080646" src="https://github.com/user-attachments/assets/f7d3dd2f-5e85-4b05-9e20-b7d37f6dceef" />
+
 
 ### 3. Proses Mengubah Data (Update)
 Demonstrasi proses memilih data dari tabel, mengubah isinya melalui form, dan menyimpannya.
 
-![Proses Ubah Data](Dokumentasi/03-ubah-data.gif)
+<img width="875" height="706" alt="Screenshot 2025-10-06 080714" src="https://github.com/user-attachments/assets/8d5bd957-d0d9-4a00-b159-64e803d463c2" />
+
+<img width="871" height="729" alt="Screenshot 2025-10-06 080721" src="https://github.com/user-attachments/assets/eb81babe-72bd-4063-95b3-76f24b88142c" />
+
 
 ### 4. Proses Menghapus Data (Delete)
 Demonstrasi proses memilih data dari tabel, menekan tombol hapus, dan melakukan konfirmasi penghapusan.
 
-![Proses Hapus Data](Dokumentasi/04-hapus-data.gif)
+<img width="835" height="755" alt="Screenshot 2025-10-06 080736" src="https://github.com/user-attachments/assets/597f1d1b-c31b-4221-8907-ad4bf7da3f5b" />
+
+<img width="821" height="730" alt="Screenshot 2025-10-06 080746" src="https://github.com/user-attachments/assets/57e03457-f0f1-4bfe-8dfa-7b2ab173309c" />
+
+
